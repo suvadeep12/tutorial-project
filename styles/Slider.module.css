@@ -1,0 +1,20 @@
+.left_side2{
+    width: 50%;
+    height: 700px;
+    background-image: url(../public/left_cover.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+  }
+  
+  .right_side2{
+    width: 50%;
+    height: 700px;
+  }
+  
+  .left_side_header{
+    font-size: 6rem;
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    text-shadow: 1px 2px 1px 2px gray;
+  }

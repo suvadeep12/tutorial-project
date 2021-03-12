@@ -1,0 +1,24 @@
+.main_footer{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    background-image: linear-gradient(rgb(253, 241, 241), white, rgb(253, 250, 250));
+}
+.header_line{
+color: white;
+font-weight: bolder;
+border-bottom: white;
+}
+.products p{
+    color: white;
+    font-size: small;
+    font-weight: lighter;
+}
+.useful_links p{ 
+    color: white;
+    font-size: small;
+    font-weight: lighter;
+}
+.main_logo{
+    box-shadow: .5px .5px 8px 1px white;
+}

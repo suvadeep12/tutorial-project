@@ -1,0 +1,29 @@
+.container_6{
+    width: 90%;
+    margin: 50px auto;
+    display: grid;
+    grid-template-rows: 180px 180px;
+    grid-template-columns: 180px 180px 180px 180px 180px 180px;
+    grid-gap: 20px;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 1px 2px 8px black;
+  }
+  
+  .div1{background-image: url(../public/banners/10-9.jpg);
+    background-size: cover;
+  grid-row: 1/3; grid-column: 5/7;}
+  .div2{background-image: url(../public/banners/10-7.jpg);
+    background-size: cover;
+  grid-column: 4/5; grid-row: 1;}
+  .div3{background-image: url(../public/banners/10-8.jpg);
+    background-size: cover;
+  grid-column: 4/5; grid-row: 2;}
+  .div4{background-image: url(../public/banners/10-6.jpg);
+    background-size: cover;
+    grid-row: 1/3; grid-column: 1/4;
+  }
+
+  .headerItem{
+      padding-top: 8rem;
+  }
